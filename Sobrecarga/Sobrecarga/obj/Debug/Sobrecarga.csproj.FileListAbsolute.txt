@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Sobrecarga\Sobrecarga\bin\Debug\Sobrecarga.exe.config
+C:\Users\User\source\repos\Sobrecarga\Sobrecarga\bin\Debug\Sobrecarga.exe
+C:\Users\User\source\repos\Sobrecarga\Sobrecarga\bin\Debug\Sobrecarga.pdb
+C:\Users\User\source\repos\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.exe
+C:\Users\User\source\repos\Sobrecarga\Sobrecarga\obj\Debug\Sobrecarga.pdb
